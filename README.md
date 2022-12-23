@@ -7,7 +7,7 @@
 
 - 🙍‍♂️ I’m looking to collaborate on [AkarGuard](https://akarguard.net)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DiabloAkar?tab=repositories](https://github.com/DiabloAkar?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/diabloakar0?tab=repositories)
 
 - 📫 How to reach me **diabloiletisim@proton.me**
 
