@@ -9,7 +9,7 @@
 
 - 🙍‍♂️ [AkarGuard]( https://akarguard.net)
 
-- 👨‍💻 Tüm projelerime [https://github.com/DiabloAkar?tab=repositories](https://github.com/DiabloAkar?tab=repositories) adresinden ulaşabilirsiniz.
+- 👨‍💻 Tüm projelerime [https://github.com/DiabloAkar?tab=repositories](https://github.com/DiabloAkar0?tab=repositories) adresinden ulaşabilirsiniz.
 
 - 📫 Bana nasıl ulaşabilirsiniz **diabloiletisim@proton.me**
 
